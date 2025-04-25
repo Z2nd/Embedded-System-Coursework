@@ -22,19 +22,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	decodertest
 
-} {} {}} {C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/cpu.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/cpu.sv}
+} {} {}} {C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/cpu.sv} {1 {vlog -work work -sv -stats=none {C:\Users\Joe Zheng\OneDrive\Soton Master\Modules\Semester 2\ELEC6234-Embedded Processor\coursework\Code\FPGA\cpu.sv}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module cpu
 
 Top level modules:
 	cpu
-
-} {} {}} {C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/regstest.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/regstest.sv}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module regstest
-
-Top level modules:
-	regstest
 
 } {} {}} {C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/pc.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/pc.sv}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016

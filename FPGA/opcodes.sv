@@ -3,7 +3,7 @@
 // File Name   : opcodes.sv
 // Function    : picoMIPS opcode definitions 
 //               for example 28 Feb 14
-// only 5 opcodes:   NOP, ADD, ADDI, SUBI, BNE
+// 9 opcodes:   NOP, ADD, SUB, ADDI, SUBI, BNE, BEQ, BGE, BLO
 // Note that Opcodes are 6 bits long and
 // the opcodes of ALU instructions have the
 // required 3-bit ALU code in the lowest 3 bits
