@@ -36,7 +36,7 @@ begin
    takeBranch =  1'b0; 
    case(opcode)
      `NOP: ;
-     `ADD,`SUB : begin // register-register
+     `ADD,`SUB: begin // register-register
 	        w = 1'b1; // write result to dest register
 	      end
      `ADDI,`SUBI: begin // register-immediate

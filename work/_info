@@ -10,7 +10,7 @@ cModel Technology
 dE:/Application/ModelSim/18.1
 valu
 Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
-Z1 !s110 1745498358
+Z1 !s110 1745581768
 !i10b 1
 !s100 G^E]RfSYc6VMgdQP[mBZa1
 IZ49VR9Q@X@OlzQ]Z3cl0V2
@@ -26,7 +26,7 @@ Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1745498358.000000
+Z5 !s108 1745581768.000000
 !s107 C:\Users\Joe Zheng\OneDrive\Soton Master\Modules\Semester 2\ELEC6234-Embedded Processor\coursework\Code\FPGA\alucodes.sv|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/alu.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/alu.sv|
 !i113 1
@@ -34,7 +34,7 @@ Z6 o-work work -sv
 Z7 tCvgOpt 0
 vcounter
 R0
-Z8 !s110 1745498359
+Z8 !s110 1745581769
 !i10b 1
 !s100 lSPehiTGf]Xbf?R>hYHYZ1
 IQgmhHeJlk=aQ9OgP]z:dU2
@@ -50,7 +50,7 @@ R4
 r1
 !s85 0
 31
-Z9 !s108 1745498359.000000
+Z9 !s108 1745581769.000000
 !s107 C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/counter.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/counter.sv|
 !i113 1
@@ -77,6 +77,54 @@ r1
 R9
 !s107 C:\Users\Joe Zheng\OneDrive\Soton Master\Modules\Semester 2\ELEC6234-Embedded Processor\coursework\Code\FPGA\alucodes.sv|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/cpu.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/cpu.sv|
+!i113 1
+R6
+R7
+vdecoder
+R0
+R8
+!i10b 1
+!s100 iValb^ULJn^jhnnIz2VWU1
+I:3>ecVMLmaVJOiFgCCLJ]3
+R2
+!s105 decoder_sv_unit
+S1
+R3
+w1745508440
+8C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/decoder.sv
+FC:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/decoder.sv
+L0 12
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\Joe Zheng\OneDrive\Soton Master\Modules\Semester 2\ELEC6234-Embedded Processor\coursework\Code\FPGA\opcodes.sv|C:\Users\Joe Zheng\OneDrive\Soton Master\Modules\Semester 2\ELEC6234-Embedded Processor\coursework\Code\FPGA\alucodes.sv|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/decoder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/decoder.sv|
+!i113 1
+R6
+R7
+vdecodertest
+R0
+R8
+!i10b 1
+!s100 @G]eAJ@?FXbFb[M;D1MZH2
+IMh@on^5;;A;0Kb@bALMig1
+R2
+!s105 decodertest_sv_unit
+S1
+R3
+w1745581739
+8C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/decodertest.sv
+FC:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/decodertest.sv
+L0 13
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\Joe Zheng\OneDrive\Soton Master\Modules\Semester 2\ELEC6234-Embedded Processor\coursework\Code\FPGA\opcodes.sv|C:\Users\Joe Zheng\OneDrive\Soton Master\Modules\Semester 2\ELEC6234-Embedded Processor\coursework\Code\FPGA\alucodes.sv|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/decodertest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/decodertest.sv|
 !i113 1
 R6
 R7
@@ -131,7 +179,7 @@ R7
 npico@m@i@p@s4test
 vprog
 R0
-R8
+Z10 !s110 1745581770
 !i10b 1
 !s100 :2XG4zd0E0Ug0EF`Q`mZR2
 IYm;J6KTonfg5_>;zjc;ON3
@@ -147,7 +195,7 @@ R4
 r1
 !s85 0
 31
-R9
+Z11 !s108 1745581770.000000
 !s107 C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/prog.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/prog.sv|
 !i113 1
@@ -155,7 +203,7 @@ R6
 R7
 vregs
 R0
-!s110 1745498360
+R10
 !i10b 1
 !s100 f0oJS_dHYeMZ@ME]8EGYP0
 IB878CAYdl1jRhoiXH?6bV3
@@ -171,7 +219,7 @@ R4
 r1
 !s85 0
 31
-!s108 1745498360.000000
+R11
 !s107 C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/regs.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Joe Zheng/OneDrive/Soton Master/Modules/Semester 2/ELEC6234-Embedded Processor/coursework/Code/FPGA/regs.sv|
 !i113 1
